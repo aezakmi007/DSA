@@ -60,5 +60,6 @@ public static void main(String[] args){
 	int n = sc.nextInt();
 
 	System.out.println(isPrime(n));
+	System.out.println(isPrime2(n));
 }
 }
