@@ -57,6 +57,6 @@ public class ALL_DIVISORS {
 
 //		naiveMethod(num);//Theta(n);
 		efficientMethod(num);//Theta(n  n^ 1/2);
-//		moreEfficientMethod(num);//Theta(n ^ 1 / 2);
+//		;//Theta(n ^ 1 / 2);
 	}
 }
